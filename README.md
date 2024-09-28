@@ -1,4 +1,4 @@
 - i’m @JoshCobra
 - i'm interested in aplication creation, videogame developmet, astronomy, software, hardware, music.
 - i’m currently learning html and ibmz xplore zowee, python, java
-
+- https://www.credly.com/badges/232bebcf-b9f7-4372-8224-43157ae333dd/public_url
