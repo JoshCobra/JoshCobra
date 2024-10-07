@@ -45,3 +45,4 @@
   <img src="https://static.vecteezy.com/system/resources/previews/023/986/936/original/twitch-logo-twitch-logo-transparent-twitch-icon-transparent-free-free-png.png" width="44px"/> 
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=JoshCobra&icon=8&color=3)](https://visitcount.itsvg.in)
