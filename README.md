@@ -3,6 +3,7 @@ I'm **Josue De la Rosa**, Computer Engineering student at **ESIME Culhuacán-IPN
 <br>*I have a strong drive to turn big ideas into reality*<br>
 I'm ambitious and deeply passionate about technology, astronomy, and video games, always seeking to explore the vast possibilities of the universe and technological innovation. 🚀
 
+<img align="right" alt="img" width="20%" height="auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB2Y3B3M2t5ZjY1cG41MW9kb3J2YWFvenVybTJqeHhrazc0dm9lciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/35PXLrnJI8WYS0kUgG/giphy.webp"/>
 
 ### 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JoshCobraa) 
