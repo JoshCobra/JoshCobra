@@ -1,5 +1,6 @@
 # 🐉 About Me:
 [JoshCobra](https://joshcobra.software/)
+
 I'm **Josue De la Rosa**, Computer Engineer Student at **ESIME Culhuacán-IPN**.💻<br>
 <br>*I have a strong drive to turn big ideas into reality.*<br>
 I'm ambitious and deeply passionate about technology, astronomy, and video games, always seeking to explore the vast possibilities of the universe and technological innovation. 🚀
