@@ -70,12 +70,15 @@
         display: flex;
         flex-wrap: wrap;
         padding: 20px;
+        justify-content: center;
+        align-items: center;
 
-        img {
-            margin: 0 auto;
-            max-width: 400px;
+        img, a {
+            margin: 0 10px;
+            max-width: 300px;
             border-radius: 2px;
             opacity: 0.9;
+            object-fit: contain;
             transition: all 0.5s ease;
 
             @include respond-to(440px) {
