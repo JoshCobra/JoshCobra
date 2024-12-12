@@ -70,12 +70,12 @@ body {
   scale: 1.4;
   color: #074e00;
 }
-.main .main__image {
+.main .today__section {
   display: flex;
   flex-wrap: wrap;
   padding: 20px;
 }
-.main .main__image img {
+.main .today__section img {
   margin: 0 auto;
   max-width: 400px;
   border-radius: 2px;
@@ -83,22 +83,22 @@ body {
   transition: all 0.5s ease;
 }
 @media screen and (max-width: 440px) {
-  .main .main__image img {
+  .main .today__section img {
     max-width: 300px;
   }
 }
 @media screen and (max-width: 345px) {
-  .main .main__image img {
+  .main .today__section img {
     max-width: 250px;
   }
 }
 @media screen and (max-width: 290px) {
-  .main .main__image img {
+  .main .today__section img {
     max-width: 200px;
   }
 }
 @media screen and (max-width: 240px) {
-  .main .main__image img {
+  .main .today__section img {
     max-width: 150px;
   }
 }/*# sourceMappingURL=main.css.map */
