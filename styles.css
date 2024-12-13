@@ -66,12 +66,32 @@ body {
     align-items: center;
 }
 
+.today__section a {
+    max-width: 370px;
+}
+
 .today__section img {
-    max-width: 450px;
+    width: 100%;
     object-fit: contain;
     transition: all 0.7s ease-in-out;
 }
 
 .today__section img:hover {
     transform: scale(1.03);
+}
+
+@media screen and (max-width:340px) {
+    .header__title {
+        font-size: 2.7rem;
+    }
+}
+
+@media screen and (max-width: 240px) {
+    .header__title {
+        font-size: 2.2rem;
+    }
+
+    .main__section {
+        font-size: 0.9rem;
+    }
 }
