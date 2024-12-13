@@ -12,9 +12,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url(img/universe0034.jpg);
-    background-position: center;
-    background-size: cover;
+    background: url(img/universe0034.jpg) center/cover;
     padding: 10px;
 }
 
