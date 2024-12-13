@@ -14,6 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 10px;
+    background-color: #ddd3ba;
 }
 
 .header__title {
@@ -47,6 +48,10 @@ body {
     background-color: #ddd3ba;
     padding: 17px;
     border-radius: 5px;
+}
+
+footer {
+    background-color: #ddd3ba;
 }
 
 @media screen and (max-width:340px) {

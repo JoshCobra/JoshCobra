@@ -14,6 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     background: url(/img/ngc2264_lg.jpg) center/cover no-repeat;
+    background-color: #ddd3ba;
     padding: 10px;
 }
 
@@ -79,6 +80,10 @@ body {
 
 .today__section img:hover {
     transform: scale(1.03);
+}
+
+footer {
+    background-color: #ddd3ba;
 }
 
 @media screen and (max-width:340px) {

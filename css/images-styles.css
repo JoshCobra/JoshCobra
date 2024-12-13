@@ -14,6 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 10px;
+    background-color: #ddd3ba;
 }
 
 .header__title {
@@ -44,6 +45,10 @@ body {
 
 .main__img img:hover {
     transform: scale(1.01);
+}
+
+footer {
+    background-color: #ddd3ba;
 }
 
 @media screen and (min-width: 1000px) {
