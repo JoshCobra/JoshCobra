@@ -5,6 +5,7 @@
 
 body {
     background-color: #ffe67728;
+    background: url(/img/Artboard.png) center/cover repeat;
 }
 
 .header {
@@ -43,6 +44,9 @@ body {
 .main__section {
     color: #555555;
     font-size: 1.2rem;
+    background-color: #ddd3ba;
+    padding: 17px;
+    border-radius: 5px;
 }
 
 @media screen and (max-width:340px) {

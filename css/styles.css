@@ -5,6 +5,7 @@
 
 body {
     background-color: #ffe67728;
+    background: url(/img/Artboard.png) center/cover repeat;
 }
 
 .header {

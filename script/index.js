@@ -18,6 +18,6 @@ function displayAPOD(data) {
             <iframe src="${data.url}" frameborder="0" allowfullscreen style="width: 100%; height: 500px;"></iframe>
         `;
     } else {
-        headerElement.innerHTML = `<p>Contenido no soportado: ${data.media_type}</p>`;
+        return null;
     }
 }
