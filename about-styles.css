@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: #ffe67728;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.header__title {
+    padding-top: 100px;
+    align-self: center;
+    font-size: 4.5rem;
+    color: #555555;
+    transition: all 0.7s ease-in-out;
+}
+
+.header__title:hover {
+    color: #0c6400;
+}
+
