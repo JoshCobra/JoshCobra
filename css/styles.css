@@ -69,13 +69,15 @@ body {
 }
 
 .today__section a {
-    max-width: 370px;
+    max-width: 350px;
+    max-height: 250px;
 }
 
 .today__section img {
     width: 100%;
-    object-fit: contain;
+    height: 100%;
     transition: all 0.7s ease-in-out;
+    object-fit: contain;
 }
 
 .today__section img:hover {
